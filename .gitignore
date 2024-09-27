@@ -1,0 +1,9 @@
+*.png
+
+.venv/
+
+.ipynb_checkpoints
+
+figures/
+
+dump.txt
